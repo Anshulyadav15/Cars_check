@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Toyota Corolla",
+    "image": "https://images.pexels.com/photos/13911165/pexels-photo-13911165.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "fueltype": "Petrol",
+    "model": "2023",
+    "description": "The Toyota Corolla is a reliable and fuel-efficient compact car. It offers a comfortable ride and comes with advanced safety features.",
+    "category": "Compact"
+  },
+  {
+    "id": 1,
+    "name": "Honda Civic",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/Civic/7740/1585801296746/front-left-side-47.jpg?imwidth=890&impolicy=resize",
+    "fueltype": "Petrol",
+    "model": "2023",
+    "description": "The Honda Civic is a compact car known for its fuel efficiency and sporty design. It provides a comfortable ride, advanced technology, and a spacious cabin.",
+    "category": "Sedan"
+  },
+  {
+    "id": 2,
+    "name": "Tesla Model S",
+    "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/93821/exterior-right-front-three-quarter.jpeg?q=75&wm=1",
+    "fueltype": "Electric",
+    "model": "2023",
+    "description": "The Tesla Model S is an all-electric luxury sedan known for its impressive acceleration and long-range capabilities. It offers cutting-edge technology and a sleek, futuristic design.",
+    "category": "Electric"
+  },
+  {
+    "id": 3,
+    "name": "Ford F-150",
+    "image": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150f-150/2023/collections/dm/22_FRD_F15_51122_PK.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480",
+    "fueltype": "Diesel",
+    "model": "2023",
+    "description": "The Ford F-150 is a full-size pickup truck known for its ruggedness and versatility. It offers powerful engine options, spacious cabin, and excellent towing capacity.",
+    "category": "Truck"
+  }
+]
